@@ -75,6 +75,7 @@
 * [MDN - HTTP 접근 제어 CORS](https://developer.mozilla.org/ko/docs/Web/HTTP/Access_control_CORS)
 * [Cross-Origin-Resource-Sharing 에 대해서](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 * [구루비 - CORS 에 대해서](http://wiki.gurubee.net/display/SWDEV/CORS+%28Cross-Origin+Resource+Sharing%29)
+* [Beeceptor - CORS를 지원하는 API 모킹 도구](https://beeceptor.com/faq/) - 크로스 오리진 요청을 테스트할 수 있는 모의 API를 제공합니다. 기본적으로 `OPTIONS` 프리플라이트 요청을 처리하고 `Access-Control-Allow-Origin` 헤더를 포함합니다.
 
 [뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
 
